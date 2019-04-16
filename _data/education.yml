@@ -4,8 +4,8 @@
   year: 2015 &mdash; 2019
   awards:
     - award: GPA 3.78/4
-    - award: Mathematics Thesis: Convolution and Neural Networks, advised by Prof. Katharine Ott
-    - award: Physics Thesis: Toward Partial Differential Equation Discovery via Deep Learning, advised by Prof. Jeff Oishi
+    - award: "Mathematics Thesis: Convolution and Neural Networks, advised by Prof. Katharine Ott"
+    - award: "Physics Thesis: Toward Partial Differential Equation Discovery via Deep Learning, advised by Prof. Jeff Oishi"
 #  summary: If you had any meaningful roles at college, feel free to write about them here
 
 # - degree: High School Diploma
